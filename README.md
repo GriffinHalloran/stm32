@@ -19,3 +19,7 @@ Nunchuk: Would be used to hit the ball after an angle is determined
 Accelerometer: find the angle that the user wants to hit the ball in 
 
 SD Card: Store images of the ball and hole on the SD card and import them to the board 
+
+To run the code, first download it onto a stm32 board and run main.c
+
+You will also need to download the pictures in the SD folder onto an SD card and insert it into the board. Lastly, to move the program you will need to use a nintendo wii nunchuk 
