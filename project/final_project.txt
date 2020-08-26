@@ -1,0 +1,22 @@
+1.
+
+Our game that we implemented was mini golf! For this project we used the following items with each functionality:
+
+LCD- coloring the screen and drawing the boundaries for our level. Along with this we used this to constantly draw the ball and update its position.
+Audio- We kept the audio on our SD card and played a claping sound whenever a user sucessfully scored a goal.
+Accelerometer- we use this in order to find the orientation of our board. Then, we draw a line in said direction so the user can see which direction their ball is going to go.
+User Button- This is how the user tells the game when it wants to shoot. Once they chose a direction, they can shoot the ball by pressing the user button.
+Nunchuk- This is used to select a level. The program takes the user to a level selector and then they use the nunchuk to pick the one they want to play.
+SD Card- We store our images and sound in the SD card, so we call on it whenever we have to retrieve them.
+
+These are all the core functionalities along with how they are implemented in hardware.
+
+Partner breakdown for each item:
+LCD- Griffin
+Audio- Ahmed
+Accelerometer-Griffin and Ahmed
+User Button-Griffin
+Nunchuk- Ahmed
+SD Card- Ahmed
+Level Boundaries / Ball physics / Level updating -Griffin
+

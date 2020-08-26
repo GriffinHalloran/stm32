@@ -1,0 +1,22 @@
+
+Griffin Halloran  grifhall@iu.edu 
+
+ 
+
+Game Name: Mini Golf  
+
+Main idea: Implement code to play a version of mini gulf as seen on the app store. 
+
+LCD: To color the background and objects on the screen  
+
+Audio: Victory noises when the ball gets into hole   
+
+User input: Take the user input to go to another level. (Blue button on the board)  
+
+Nunchuk: Would be used to hit the ball after an angle is determined 
+
+Accelerometer: find the angle that the user wants to hit the ball in 
+
+SD Card: Store images of the ball and hole on the SD card and import them to the board 
+
+ 

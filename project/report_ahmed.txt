@@ -1,0 +1,34 @@
+Ahmed Shahzad 
+Griffin Halofrin 
+
+Audio
+I was responsible to make the audio to work. I was having trouble with the audio to work.
+I download an audio from http://www.wavsource.com/stuff.htm
+and thats how I was able to overcome this technical challenge 
+This is how we met the sound requirement 
+I would start with this task first 
+
+Visual (main screen and victory screen) that was a team effort 
+I was responsible for desinging the vicotroy screen and making the image screen 
+Just formatting difficulites and those were quickly overcome 
+This is how we met the visual requirmeent 
+No change from the start of the project 
+
+Nunhcuk and sd card 
+I was responsible  for nunchuk input which i solved by using the correct inits 
+The sd card had to be swapped with my partners due to read only techincal difficulites 
+This is how we met the sd card usage and nunchuk requirement  
+NO change from the start of the project meaning I would do this in the order it was done 
+ 
+headings 
+I was responsbile for getting the headings so Griffin could draw lines so that the user would know where to aim the ball 
+Not really techincal issues with this 
+This is how we got the core functionlaity of the game working 
+No change from the start of the project see above as the meaning 
+
+
+testing 
+This was how we ensured we meet the project requirments 
+I tested for bugs and Griffin fixed those bugs 
+We worked together to isolate problems with the levels and came up with solutions 
+NO change from the start of the project 
